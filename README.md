@@ -1,0 +1,1 @@
+# namecomparison.rb
